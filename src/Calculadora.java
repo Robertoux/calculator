@@ -6,6 +6,7 @@ public class Calculadora {
 
    int sumar(Integer number, Integer number1 ){
       return number + number1;
+
    }
    int restar(Integer number,Integer number1){
 
